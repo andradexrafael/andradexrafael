@@ -12,8 +12,8 @@
 - 🌱 Atualmente estou aprendendo Javascript, React.js, React Native e MySQL.
 - 🎓 
   - Designer Gráfico pela **Panamericana de Arte e Design (6/6)**.
-  - Sistemas de Informação e Gestão de Sistemas pela **Universidade São Judas Tadeu (6/8)**
-  - Stack Hacker (front-end) pela **Gama Academy**  
+  - Sistemas de Informação e Gestão de Sistemas pela **Universidade São Judas Tadeu (6/8)**.
+  - Stack Hacker (front-end) pela **Gama Academy**.  
 
 - ⚡ Curiosidades: 
   - Desenhista 👨‍🎨 
