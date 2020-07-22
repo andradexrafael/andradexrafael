@@ -1,16 +1,25 @@
-### Hi there 👋
+## 👨🏻‍💻 Rafael Andrade
 
-<!--
-**andradexrafael/andradexrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andradexrafael)](https://github.com/andradexrafael)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrade-s-rafael/)](https://www.linkedin.com/in/andrade-s-rafael/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelhsbandrade@gmail.com)](mailto:rafaelhsbandrade@gmail.com)
 
-Here are some ideas to get you started:
+### Olá! 👋🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏻‍💻 **Front-end** júnior e **Web Designer**.
+- 🔭 Atualmente estou aberto para novas oportunidades.
+- 💻 HTML5, CSS3, SASS, WordPress, Javascript e React.js **iniciante**.
+- 🌱 Atualmente estou aprendendo Javascript, React.js, React Native e MySQL.
+- 🎓 
+  - Designer Gráfico pela **Panamericana de Arte e Design (6/6)**.
+  - Sistemas de Informação e Gestão de Sistemas pela **Universidade São Judas Tadeu (6/8)**
+  - Stack Hacker (front-end) pela **Gama Academy**  
+
+- ⚡ Curiosidades: 
+  - Desenhista 👨‍🎨 
+  - Skatista há 16 anos 🛹
+  - Gamer 🎮
+  - Baixista 🎸
+  - Entusiasta da biologia animal 🦏
+
+---
