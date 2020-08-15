@@ -7,7 +7,7 @@
 ### Olá! 👋🏻
 
 - 👨🏻‍💻 **Front-end** júnior e **Web Designer**.
-- 🔭 Atualmente estou aberto para novas oportunidades.
+- 🔭 Atualmente estou atuando como desenvolvedor devops trainee na ESX.
 - 💻 HTML5, CSS3, SASS, WordPress, Javascript e React.js **iniciante**.
 - 🌱 Atualmente estou aprendendo Javascript, React.js, React Native e MySQL.
 - 🎓 
