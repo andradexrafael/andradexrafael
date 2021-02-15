@@ -6,18 +6,18 @@
 
 ### Olá! 👋🏻
 
-- 👨🏻‍💻 **Front-end** júnior e **Web Designer**.
-- 🔭 Atualmente estou atuando como desenvolvedor devops trainee na ESX.
-- 💻 HTML5, CSS3, SASS, WordPress, Javascript e React.js **iniciante**.
-- 🌱 Atualmente estou aprendendo Javascript, React.js, React Native e MySQL.
+- 👨🏻‍💻 **Analista de Sistemas** júnior em **ServiceNow**.
+- 🔭 Atualmente estou atuando na empresa Accenture.
+- 💻 ServiceNow, HTML5, CSS3, SASS, WordPress, Javascript e React.js.
+- 🌱 Atualmente estou aprendendo tudo sobre ServiceNow e suas diversas aplicações.
 - 🎓 
   - Design Gráfico pela **Panamericana de Arte e Design (6/6)**.
-  - Sistemas de Informação e Gestão de Sistemas pela **Universidade São Judas Tadeu (6/8)**.
+  - Sistemas de Informação e Gestão de Sistemas pela **Universidade São Judas Tadeu (7/8)**.
   - Stack Hacker (front-end) pela **Gama Academy**.  
 
 - ⚡ Curiosidades: 
   - Desenhista 👨‍🎨 
-  - Skatista há 16 anos 🛹
+  - Skatista há 17 anos 🛹
   - Gamer 🎮
   - Baixista 🎸
   - Entusiasta da biologia animal 🦏
