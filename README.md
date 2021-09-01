@@ -6,7 +6,7 @@
 
 ### Olá! 👋🏻
 
-- 👨🏻‍💻 **Analista de Sistemas** júnior em **ServiceNow**.
+- 👨🏻‍💻 **Analista de Sistemas** em **ServiceNow**.
 - 🔭 Atualmente estou atuando na empresa Accenture.
 - 💻 ServiceNow, HTML5, CSS3, SASS, WordPress, Javascript e React.js.
 - 🌱 Atualmente estou aprendendo tudo sobre ServiceNow e suas diversas aplicações.
@@ -19,7 +19,6 @@
   - Desenhista 👨‍🎨 
   - Skatista há 17 anos 🛹
   - Gamer 🎮
-  - Baixista 🎸
-  - Entusiasta da biologia animal 🦏
+  - Baixista 🎸  
 
 ---
