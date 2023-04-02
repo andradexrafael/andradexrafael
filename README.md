@@ -6,18 +6,18 @@
 
 ### Olá! 👋🏻
 
-- 👨🏻‍💻 **Analista de Sistemas** em **ServiceNow**.
-- 🔭 Atualmente estou atuando na empresa Accenture.
-- 💻 ServiceNow, HTML5, CSS3, SASS, WordPress, Javascript e React.js.
-- 🌱 Atualmente estou aprendendo tudo sobre ServiceNow e suas diversas aplicações.
+- 👨🏻‍💻 **Confidencial**.
+- 🔭 Confidencial.
+- 💻 HTML5, CSS3, SASS, JS, WordPress, ServiceNow e React.js.
+- 🌱 Confidencial.
 - 🎓 
   - Design Gráfico pela **Panamericana de Arte e Design (6/6)**.
-  - Sistemas de Informação e Gestão de Sistemas pela **Universidade São Judas Tadeu (7/8)**.
+  - Sistemas de Informação e Gestão de Sistemas pela **Universidade São Judas Tadeu (8/8)**.
   - Stack Hacker (front-end) pela **Gama Academy**.  
 
 - ⚡ Curiosidades: 
   - Desenhista 👨‍🎨 
-  - Skatista há 17 anos 🛹
+  - Skatista há 20 anos 🛹
   - Gamer 🎮
   - Baixista 🎸  
 
